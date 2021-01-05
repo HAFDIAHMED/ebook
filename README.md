@@ -1,7 +1,5 @@
 # 📖📖 Flutter eBook App [![Codemagic build status](https://api.codemagic.io/apps/5e230defc5faa60315b1df62/5e230defc5faa60315b1df61/status_badge.svg)](https://codemagic.io/apps/5e230defc5faa60315b1df62/5e230defc5faa60315b1df61/latest_build)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
-
 A simple Flutter app to Read and Download books. The Books included in the app
 are from the [Public Domain](https://en.wikipedia.org/wiki/Public_domain)
 (Expired Copyright and completely free).
