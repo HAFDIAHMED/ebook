@@ -58,6 +58,5 @@ To download this app, <a href="https://codemagic.io/apps/5e230defc5faa60315b1df6
 
 **AHMED HAFDI**
 
-## 🔖 LICENCE
 
-[Apache-2.0](https://github.com/JideGuru/FlutterEbookApp/blob/master/LICENSE)
+
